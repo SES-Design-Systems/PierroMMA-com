@@ -102,7 +102,7 @@ export default function Footer() {
           rel="noopener noreferrer author nofollow"
           className="cursor-pointer text-sm! font-light hover:text-primary hover:underline"
         >
-          Managed by CS
+          Website by CS
         </a>
       </div>
     </div>
