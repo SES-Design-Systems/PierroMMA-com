@@ -46,17 +46,7 @@ export default function Footer() {
                 info@pierromma.com
               </a>
             </div>
-            <div className="flex items-center justify-center gap-3">
-              <MapPin className="size-5" />
-              <a
-                href="https://www.google.com/maps/dir//Pierro+MMA,+3801+Victory+Blvd+Suite+G,+Staten+Island,+NY+10314/@40.5633014,-74.2322601,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x89c24d77f05f374f:0x5994e066c6144d0e!2m2!1d-74.1828036!2d40.5973185!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MTExMC4wIKXMDSoASAFQAw%3D%3D"
-                className=""
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                3801 Victory blvd ste G, Staten Island, NY 10314
-              </a>
-            </div>
+            
             <a
               href="https://instagram.com/pierro_mma"
               target="_blank"
@@ -97,12 +87,12 @@ export default function Footer() {
           &copy; {new Date().getFullYear()} Pierro MMA. All rights reserved.
         </p>
         <a
-          href="https://craigsampson.com"
+          href="https://macdesign.studio"
           target="_blank"
           rel="noopener noreferrer author nofollow"
           className="cursor-pointer text-sm! font-light hover:text-primary hover:underline"
         >
-          Website by CS
+          Website by MS
         </a>
       </div>
     </div>

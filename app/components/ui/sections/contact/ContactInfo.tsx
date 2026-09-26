@@ -12,15 +12,7 @@ export default function ContactInfo() {
         <Mail className="shrink-0" />
         <a href="mailto:info@pierromma.com">info@pierromma.com</a>
       </div>
-      <div className="flex items-center gap-3">
-        <MapPin className="shrink-0" />
-        <a
-          target="_blank"
-          href="https://www.google.com/maps/dir//3801+Victory+Blvd+Suite+G+Staten+Island,+NY+10314/@40.5973185,-74.1828036,16z/data=!4m5!4m4!1m0!1m2!1m1!1s0x89c24c9029eaaaab:0x9bf868165dc96954"
-        >
-          3801 Victory blvd ste G, Staten Island, NY 10314
-        </a>
-      </div>
+      
       <div className="flex items-center gap-3">
         <a
           href="https://instagram.com/pierro_mma"

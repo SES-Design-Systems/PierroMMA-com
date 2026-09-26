@@ -53,12 +53,11 @@ export default function Nav() {
               />
             </a>
           </div>
-          <div className="w-[315px] text-right pr-4">
+          <div className="w-[315px] text-right pr-25">
             <span className="text-5xl text-white font-bangers">pierro mma</span>
           </div>
-          <div className="flex flex-col items-start pl-4 justify-self-center">
+          <div className="flex flex-col items-start pl-4 justify-self-start">
             <p>+1 646-923-2215</p>
-            <p>3801 Victory Blvd, Staten Island, NY 10314</p>
           </div>
           <div className="z-10">
             <PrimaryButton text="Contact" link="#contact" />
